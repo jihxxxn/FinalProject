@@ -1,6 +1,6 @@
 package com.scorpion.domain;
 
-public class PictureVO {
+public class PictureDTO {
 
 	private String uuid;
 	private String uploadPath;
